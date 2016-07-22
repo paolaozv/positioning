@@ -1,0 +1,23 @@
+/* Pon tu código css aqui */
+* {
+	margin: 0;
+	padding: 0;
+}
+div {
+	width: 200px;
+	height: 200px;
+	position: relative;
+}
+.red {
+	background-color: #ee3e64;
+	left: 300px;
+}
+.blue {
+	background-color: #44accf;
+	left: 500px;
+	top: 300px;
+}
+.green {
+	background-color: #b7d84b;
+	left: 100px;
+}
